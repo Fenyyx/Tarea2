@@ -1,0 +1,99 @@
+/*
+Colors:
+
+Text: 1A1A1A
+Green: #00B172
+White: #FFF
+
+*/
+header {
+    background-color: white;
+    height: 200px;
+   display: flex;
+   flex-direction: row;
+   border-left: 200px;
+}
+.logo {
+    background-image: url(spotify-logo.png);
+    background-size: 100%;
+    width: 200px;
+    height: 60px;
+    margin: auto;
+}
+h1 {
+    background-image: url(landing.jpg);
+    background-size: 100%;
+    color: white;
+    font-size: 90px;
+    height: 440px;
+    text-align: center;
+    padding: 220px;
+}
+.sub {
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+}
+h2 {
+    font-size: 40px;
+    border-bottom:rgb(30, 215, 96) 2px solid;
+    margin-right: 500px;
+    margin-left: 500px;
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+    color: rgb(30, 215, 96);
+}
+p {
+    font-size: 20px;
+}
+.music1 {
+    background-image: url(music-icon.png);
+    height: 100px;
+    width: 120px;
+    background-size: 100%;
+}
+.music2 {
+    background-image: url(high-quality-icon.png);
+    height: 100px;
+    width: 130px;
+    background-size: 100%;
+}
+.music3 {
+    background-image: url(devices-icon.png);
+    height: 100px;
+    width: 120px;
+    background-size: 100%;
+}
+.app{
+    background-image: url(spotify-app.jpg);
+    height: 530px;
+    width: 300px;
+    background-size: 100%;
+}
+h4 {
+    font-size: 30px;
+    border-bottom: white 2px solid;
+    width: 358px;
+}
+h5 {
+    font-size: 25px;
+}
+article {
+    font-size: 15px;
+    background-color: rgb(30, 215, 96);
+    color:white;
+    padding: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+aside {
+    float: right;
+    width: 30%
+}
+aside1 {
+    float: left;
+    width: 30%;
+}
